@@ -9,7 +9,7 @@ I created this to practice DOM manipulation, event handling, and to finally brin
 
 ## 🔗 Live Demo
 
-👉 [Click here to play the game](https://your-username.github.io/rock-paper-scissors/)
+👉 [Click here to play the game](https://i-ampranav.github.io/rock-paper-scissors/)
 
 ---
 
